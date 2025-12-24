@@ -1,0 +1,262 @@
+[
+    {
+        "key": {
+            "kind": "mbccJuniorCourses",
+            "id": 5654617534758912
+        },
+        "propertyMap": {
+            "specialnote": {
+                "value": ""
+            },
+            "cost": {
+                "value": "250"
+            },
+            "classroomCode": {
+                "value": "bqgmuhp"
+            },
+            "display": {
+                "value": "None"
+            },
+            "description": {
+                "value": {
+                    "value": "\u003cp\u003eIntro to Python Programming - \u003cstrong\u003eEmphasis on problem-solving in every class! \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThis class requires students to study the given material before every class.\u003c/p\u003e\n\u003cp\u003eClass meets alternate days - Mon/Wed/Fri and students are expected to do some homework before every class.\u003c/p\u003e\n\u003cp\u003eIn this course, students learn - basics of Python programming - Data types, variables, ordered unordered collection, logic controls, modules, and functions. \u003ca href\u003d\u0027https://ebooks.mobibootcamp.com/python/index.html\u0027\u003eReference eBook \u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eOn successful completion of the program by passing the final exam, students earn a \u003cstrong\u003edigital badge\u003c/strong\u003e\u003c/p\u003e"
+                }
+            },
+            "type": {
+                "value": "Summer Camp"
+            },
+            "paymentType": {
+                "value": "onetime"
+            },
+            "mode": {
+                "value": "Online"
+            },
+            "duration": {
+                "value": "June 21st through July 2nd, 2021"
+            },
+            "schedule": {
+                "value": "2 hrs/day, 3 days/week for 2 weeks"
+            },
+            "name": {
+                "value": "Intro to Python Programming"
+            },
+            "timings": {
+                "value": "3 pm to 5 pm EST"
+            },
+            "logo": {
+                "value": "python.jpeg"
+            },
+            "days": {
+                "value": "Mon/Wed/Fri"
+            }
+        }
+    },
+    {
+        "key": {
+            "kind": "mbccJuniorCourses",
+            "id": 5701992768864256
+        },
+        "propertyMap": {
+            "specialnote": {
+                "value": ""
+            },
+            "cost": {
+                "value": "250"
+            },
+            "classroomCode": {
+                "value": "mrsgrfb"
+            },
+            "display": {
+                "value": "None"
+            },
+            "description": {
+                "value": {
+                    "value": "\u003cp\u003eIn this course, students learn the basics of Data Visualization using Python and Python modules like Pandas and Seaborn. Students can enroll in this module after completing the Intro to Python programming module. Students will learn when and how to draw bar graphs, line charts, pie charts, etc.. This is the second module of the Data Analytics track.\u003c/p\u003e\n\u003cp\u003eStudents complete the course by analyzing and deriving insights from open data sets. Students can display their work on our\u0026nbsp;\u003ca href\u003d\"https://talent.mobibootcamp.com/\"\u003eTalent website\u003c/a\u003e\u003c/p\u003e"
+                }
+            },
+            "type": {
+                "value": "Weekly Classes"
+            },
+            "paymentType": {
+                "value": "onetime"
+            },
+            "duration": {
+                "value": "Sep 21st through Nov 2nd 2020"
+            },
+            "mode": {
+                "value": "Online"
+            },
+            "schedule": {
+                "value": "2 hrs/week for 6 weeks"
+            },
+            "name": {
+                "value": "Intro to Data Analytics"
+            },
+            "timings": {
+                "value": "5:30 pm to 7:30 pm EST"
+            },
+            "days": {
+                "value": "Monday"
+            },
+            "logo": {
+                "value": "barchart.png"
+            }
+        }
+    },
+    {
+        "key": {
+            "kind": "mbccJuniorCourses",
+            "id": 5703346992185344
+        },
+        "propertyMap": {
+            "specialnote": {
+                "value": "No class on November 28th"
+            },
+            "cost": {
+                "value": "250"
+            },
+            "classroomCode": {
+                "value": "ir3hahx"
+            },
+            "display": {
+                "value": "None"
+            },
+            "description": {
+                "value": {
+                    "value": "Students enroll in this course after completing theÂ Intro to Java Programming.Â In this course, they continue learning more advanced concepts of Java programming language, namely, methods, object-oriented concepts, and basics of Android programming. Students will learn all the concepts from Chapter 5 through Chapter 8 of our eBook.  For details refer to our eBook -Java and Android eBook: https://ebooks.mobibootcamp.com/java_android/index.html\n\n\n\nThe program concludes by students writing their own simple Android app and a final exam."
+                }
+            },
+            "type": {
+                "value": "Weekly classes"
+            },
+            "paymentType": {
+                "value": "onetime"
+            },
+            "mode": {
+                "value": "Online"
+            },
+            "duration": {
+                "value": "October 31st to December 5th"
+            },
+            "schedule": {
+                "value": "2 hrs/week for 6 weeks"
+            },
+            "name": {
+                "value": "Beginner Java \u0026 Android"
+            },
+            "timings": {
+                "value": "11 am to 1 pm EST"
+            },
+            "days": {
+                "value": "Saturday"
+            },
+            "logo": {
+                "value": "android-logo.png"
+            }
+        }
+    },
+    {
+        "key": {
+            "kind": "mbccJuniorCourses",
+            "id": 5712651602624512
+        },
+        "propertyMap": {
+            "specialnote": {
+                "value": "No class on December 28th"
+            },
+            "cost": {
+                "value": "250"
+            },
+            "classroomCode": {
+                "value": "xrzjmnp"
+            },
+            "display": {
+                "value": "block"
+            },
+            "description": {
+                "value": {
+                    "value": "\u003cp\u003eIn this course, students learn the basics of Java Programming - concepts of class, data types, arithmetic operators, decision controls, Strings, arrays. Students will learn all the concepts up to Chapter 4 of our eBook. For details refer to our eBook: \u003ca href\u003d\"https://ebooks.mobibootcamp.com/java_android/index.html\"\u003eJava and Android eBook\u003c/a\u003e\u003cbr /\u003eStudents will learn how to write simple Java programs in this course. The program concludes by students taking a final exam.\u003c/p\u003e"
+                }
+            },
+            "type": {
+                "value": "Weekly Classes"
+            },
+            "paymentType": {
+                "value": "onetime"
+            },
+            "duration": {
+                "value": "Nov 30th 2025 through Jan 18th, 2026"
+            },
+            "mode": {
+                "value": "Online"
+            },
+            "schedule": {
+                "value": "2 hrs/week for 6 weeks"
+            },
+            "name": {
+                "value": "Intro to Java Programming (Online Only)"
+            },
+            "timings": {
+                "value": "10 am to 12 noon EST"
+            },
+            "days": {
+                "value": "Saturday"
+            },
+            "logo": {
+                "value": "java_open-JDK.png"
+            }
+        }
+    },
+    {
+        "key": {
+            "kind": "mbccJuniorCourses",
+            "id": 5725417520496640
+        },
+        "propertyMap": {
+            "specialnote": {
+                "value": ""
+            },
+            "cost": {
+                "value": "250"
+            },
+            "classroomCode": {
+                "value": "k2ytyzi"
+            },
+            "display": {
+                "value": "block"
+            },
+            "description": {
+                "value": {
+                    "value": "In this course, 6th graders through 12th graders learn the basics of Python programming language. Students will have to spend at least 1 hour completing their homework every week in this course."
+                }
+            },
+            "type": {
+                "value": "2 classes in a week"
+            },
+            "paymentType": {
+                "value": "onetime"
+            },
+            "duration": {
+                "value": "July 28th through August 18th, 2025"
+            },
+            "mode": {
+                "value": "Online"
+            },
+            "schedule": {
+                "value": "2 hr on Mon/Wed - total 7 classes"
+            },
+            "name": {
+                "value": "Intro to Python Programming (Online only)"
+            },
+            "timings": {
+                "value": "3 pm to 5 pm EST"
+            },
+            "days": {
+                "value": "Mon/Wed"
+            },
+            "logo": {
+                "value": "python.jpeg"
+            }
+        }
+    }
+]

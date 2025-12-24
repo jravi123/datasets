@@ -1,0 +1,22 @@
+{
+	"items": [{
+		"image-src": "https://storage.googleapis.com/eda-pictures/12rErBCYMD_s9Y-_EUUVYWM5EWX0zIkEq.png",
+		"image-width": "300",
+		"h2-content": "Enroll in our classes and create your projects portfolio and share it with your prospective employers!<br>See what our students have been creating.",
+		"a-href": "https://talent.mobibootcamp.com",
+		"a-text": "Visit",
+		"active": "true"
+	}, {
+		"image-src": "img/python.jpeg",
+		"image-width": "300",
+		"h2-content": "Aspire to become a Data Analyst or Python developer and don't know where to start? Begin with learning",
+		"a-href": "https://ebooks.mobibootcamp.com/python/index.html",
+		"a-text": "Learn"
+	}, {
+		"image-src": "img/java-logo.png",
+		"image-width": "200",
+		"h2-content": "Aspire to compete in FTC and want to learn Java and Android? Begin with our free eBook!",
+		"a-href": "https://ebooks.mobibootcamp.com/java_android/index.html",
+		"a-text": "Learn"
+	}]
+}
